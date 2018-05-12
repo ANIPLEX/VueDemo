@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eefa35f-4626-4e97-bafc-190f785c2631" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo/Vue中样式多的绑定.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/Vue实例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/Vue生命周期函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/模板语法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/计算属性的setter和getter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Vue中的列表渲染.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Vue中的条件渲染.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Demo1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +21,7 @@
       <file leaf-file-name="Demo1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="858">
               <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
@@ -35,7 +30,7 @@
       <file leaf-file-name="Vue实例.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/Vue实例.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="198">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
@@ -44,7 +39,7 @@
       <file leaf-file-name="Vue生命周期函数.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="440">
               <caret line="20" column="34" selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
@@ -53,8 +48,26 @@
       <file leaf-file-name="模板语法.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="20" column="9" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="308">
+              <caret line="14" column="22" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vue中的条件渲染.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/Vue中的条件渲染.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="6" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vue中的列表渲染.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo/Vue中的列表渲染.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,7 +75,7 @@
       <file leaf-file-name="计算属性，方法，侦听器.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="396">
               <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
@@ -71,17 +84,17 @@
       <file leaf-file-name="计算属性的setter和getter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="18" lean-forward="true" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="198">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vue中样式多的绑定.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Vue中样式多的绑定.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="902">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -89,7 +102,7 @@
       <file leaf-file-name="vue.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="88">
               <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
@@ -108,13 +121,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Demo/Vue实例.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Demo/Vue中的条件渲染.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Demo/Vue中的列表渲染.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Demo/Demo1.html" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Demo/Vue实例.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Demo/模板语法.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,6 +143,9 @@
         <option value="$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html" />
         <option value="$PROJECT_DIR$/Demo/计算属性的setter和getter.html" />
         <option value="$PROJECT_DIR$/Demo/Vue中样式多的绑定.html" />
+        <option value="$PROJECT_DIR$/Demo/qqq.html" />
+        <option value="$PROJECT_DIR$/Demo/Vue中的条件渲染.html" />
+        <option value="$PROJECT_DIR$/Demo/Vue中的列表渲染.html" />
       </list>
     </option>
   </component>
@@ -137,8 +155,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/travel/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/travel/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -153,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,8 +220,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Vue中样式多的绑定.html">
+  <component name="RunManager" selected="JavaScript Debug.Vue中的列表渲染.html">
     <configuration name="Vue实例.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VueDemo/Demo/Vue实例.html" />
+    <configuration name="Vue中的条件渲染.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:7777/VueDemo/Demo/Vue中的条件渲染.html" />
+    <configuration name="Vue中的列表渲染.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:7777/VueDemo/Demo/Vue中的列表渲染.html" />
     <configuration name="Vue中样式多的绑定.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VueDemo/Demo/Vue中样式多的绑定.html" />
     <configuration name="Vue生命周期函数.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VueDemo/Demo/Vue生命周期函数.html" />
     <configuration name="模板语法.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VueDemo/Demo/模板语法.html" />
@@ -208,11 +233,13 @@
       <item itemvalue="JavaScript Debug.Vue实例.html" />
       <item itemvalue="JavaScript Debug.模板语法.html" />
       <item itemvalue="JavaScript Debug.计算属性的setter和getter.html" />
-      <item itemvalue="JavaScript Debug.Vue中样式多的绑定.html" />
+      <item itemvalue="JavaScript Debug.Vue中的条件渲染.html" />
+      <item itemvalue="JavaScript Debug.Vue中的列表渲染.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Vue中样式多的绑定.html" />
+        <item itemvalue="JavaScript Debug.Vue中的列表渲染.html" />
+        <item itemvalue="JavaScript Debug.Vue中的条件渲染.html" />
         <item itemvalue="JavaScript Debug.计算属性的setter和getter.html" />
         <item itemvalue="JavaScript Debug.模板语法.html" />
         <item itemvalue="JavaScript Debug.Vue实例.html" />
@@ -233,15 +260,19 @@
       <workItem from="1525682681019" duration="745000" />
       <workItem from="1525683599399" duration="498000" />
       <workItem from="1525753241613" duration="8435000" />
-      <workItem from="1525814095789" duration="3662000" />
+      <workItem from="1525814095789" duration="4073000" />
+      <workItem from="1525838532992" duration="273000" />
+      <workItem from="1525868508937" duration="15000" />
+      <workItem from="1525868663204" duration="550000" />
+      <workItem from="1526132010273" duration="3680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13810000" />
+    <option name="totallyTimeSpent" value="18739000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.24242425" />
@@ -270,6 +301,202 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue实例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="34" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" lean-forward="true" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue实例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="34" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" lean-forward="true" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue实例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="34" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" lean-forward="true" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -356,57 +583,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="88">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/Demo1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="858">
           <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/Vue实例.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="198">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/Vue生命周期函数.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="440">
           <caret line="20" column="34" selection-end-line="50" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="20" column="9" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="902">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/qqq.html" />
     <entry file="file://$PROJECT_DIR$/Demo/计算属性，方法，侦听器.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="396">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/计算属性的setter和getter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" lean-forward="true" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="198">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/Vue中样式多的绑定.html">
+    <entry file="file://$PROJECT_DIR$/Demo/模板语法.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中的条件渲染.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="6" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Vue中的列表渲染.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
